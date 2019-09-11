@@ -18,9 +18,6 @@ https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP
 Stok darah
 https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&gol=a_pos&produk=AHF&provinsi=Jawa+Barat
 
-Detail stok
-https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&id=3273
-
 Jadwal donor
 https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&tanggal=05/16/2017&provinsi=Jawa+Barat
 
@@ -40,11 +37,15 @@ https://sites.google.com/macros/exec?service=AKfycbx_-gZbLP7Z2gGxehXhWMWDAAQsTp3
 nama=<code>string</code>&tanggal=<code>tgl-bln-thn</code><br>
 https://script.google.com/macros/exec?service=AKfycbw7gKzP-WYV2F5mc9RaR7yE3Ve1yN91Tjs91hp_jHSE02dSv9w&nama=ican&tanggal=10-08-1990
 
-# Lirik-Lagu
-Cari
-https://sites.google.com/macros/exec?service=AKfycbzeSkwJ2sSzlMAQXy9hU_IrYTIKKVFPG8nighAUOFGHTIdJ-bU&judul=royals+lorde
+# HLR
+no=<code>6287xxxxxxx</code><br>
+https://sites.google.com/macros/exec?service=AKfycbxcCAYkY381d7e_BpA6mguSsrKHoM8Qu2HPS8m8ojOgFwodUCc&no=089875647437
 
-Lirik
-https://sites.google.com/macros/exec?service=AKfycbzeSkwJ2sSzlMAQXy9hU_IrYTIKKVFPG8nighAUOFGHTIdJ-bU&lirik=NRXXEZDFFVZG66LBNRZQ
+# Al Quran
+List Surat
+https://al-quran-8d642.firebaseio.com/data.json?print=pretty
+
+List Ayat
+https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
 
 # Yang lain nanti nyusul disini
